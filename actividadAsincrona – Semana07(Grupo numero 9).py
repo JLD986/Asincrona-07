@@ -63,23 +63,23 @@ Edgar=str("Sandia")
 x=str(input("Escriba el nombre de una fruta: "))
 bool(x)
 if x == (Lisandro):
-    print(Lisandro + " La fruta es")
+    print("Lisandro, La fruta es")
     print(True)
 
 if x == (Marbelly):
-    print(Marbelly+ " La fruta es")
+    print("Marbelly La fruta es")
     print(True)
 
 if x == (Fatima):
-    print(Fatima+ " La fruta es")
+    print(" Fatima , La fruta es")
     print(True) 
 
 if x == (Xavier):
-    print(Xavier+ " La fruta es")
+    print("Xavier , La fruta es")
     print(True)  
 
 if x == (Edgar):
-    print(Edgar+ " La fruta es")
+    print("Edgar, La fruta es")
     print(True)  
 
 
